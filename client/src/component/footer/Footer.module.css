@@ -1,0 +1,49 @@
+.footerMainContainer {
+    /* background-color: #f2f2f2; */
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.footerMainContainerMedium {
+    /* background-color: #f2f2f2; */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-around;
+    /* align-items: left; */
+    padding: 10px;
+}
+
+.iconContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.companyDetails {
+    width: 200px;
+    display: flex;
+    gap: 20px;
+}
+
+.category {
+    display: flex;
+    gap: 20px;
+}
+
+.companySection {
+    display: flex;
+    gap: 20px;
+}
+
+.helpSection {
+    display: flex;
+    gap : 20px;
+}
+
+.contactSection {
+    display: flex;
+    gap : 20px;
+}

@@ -1,0 +1,15 @@
+/* Apply style on navbar links */
+.link{
+    font-size : 16px;
+    text-decoration: none;
+    color: white;
+}
+
+.link:hover{
+    color: yellow;
+    font-weight : 500;
+}
+
+/* .link:active > *{ color: #1882db;} */
+
+.icon { color: white;}

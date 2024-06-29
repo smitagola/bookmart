@@ -1,0 +1,12 @@
+export { default as Home } from "./home/Home";
+export { default as BookDetails } from "./BookDetails";
+export { default as Books } from "./Books";
+export { default as Cart } from "./Cart";
+export { default as Contact } from "./Contact";
+export { default as Login } from "./Login";
+export { default as NotMatch } from "./NotMatch";
+export { default as ShippingDetails } from "./ShippingDetails";
+export { default as SignUp } from "./SignUp";
+export { default as PaymentOption} from "./PaymentOption";
+export { default as MyAccount } from "./MyAccount";
+export { default as ResetPassword } from "./ResetPassword";

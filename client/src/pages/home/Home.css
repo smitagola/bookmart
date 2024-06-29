@@ -1,0 +1,24 @@
+.bannerContainer{
+    /* background-color : #f2f2f2; */
+    height: 400;
+    width: 100%;
+}
+
+.btnStyle{
+    text-decoration: none;
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    background-color: #212529;
+    color: white;
+}
+
+.btnStyle:hover {
+    border: 1px solid #212529;
+    background-color: white;
+    color: #212529;
+    transition: 0.8s ease-in-out 0.1s;
+}
